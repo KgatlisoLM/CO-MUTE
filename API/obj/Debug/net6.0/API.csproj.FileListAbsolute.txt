@@ -33,3 +33,17 @@ C:\Users\kgatl\CO-MUTE\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relati
 C:\Users\kgatl\CO-MUTE\API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
 C:\Users\kgatl\CO-MUTE\API\bin\Debug\net6.0\MySqlConnector.dll
 C:\Users\kgatl\CO-MUTE\API\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\kgatl\CO-MUTE\API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\kgatl\CO-MUTE\API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\kgatl\CO-MUTE\API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\kgatl\CO-MUTE\API\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\kgatl\CO-MUTE\API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\kgatl\CO-MUTE\API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\kgatl\CO-MUTE\API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\kgatl\CO-MUTE\API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\kgatl\CO-MUTE\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\kgatl\CO-MUTE\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\kgatl\CO-MUTE\API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kgatl\CO-MUTE\API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kgatl\CO-MUTE\API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\kgatl\CO-MUTE\API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
